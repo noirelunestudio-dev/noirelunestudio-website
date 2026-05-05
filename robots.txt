@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block links page from indexing (handled via meta noindex as well)
+Disallow: /links.html
+
+# Sitemap location
+Sitemap: https://noirelunestudio.com/sitemap.xml
