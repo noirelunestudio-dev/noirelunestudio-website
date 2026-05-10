@@ -19,9 +19,9 @@
         j = d.createElement(s),
         dl = l !== 'dataLayer' ? '&l=' + l : '';
       j.async = true;
-      j.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-XXXXXXX' + dl;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-WMM8KR5G' + dl;
       f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
+    })(window, document, 'script', 'dataLayer', 'GTM-WMM8KR5G');
   }
 
   function loadMetaPixel() {
